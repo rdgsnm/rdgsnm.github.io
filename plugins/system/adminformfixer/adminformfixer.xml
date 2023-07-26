@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="system">
+	<name>Adminform Fixer</name>
+	<author>Al - Cats Eye Solution for GWS-Desk</author>
+	<creationDate>Jan 2012</creationDate>
+	<copyright>Copyright (C) 2012 Al - Cats Eye Solution for GWS-Desk. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>support@gws-desk.com</authorEmail>
+	<authorUrl>www.gws-desk.com</authorUrl>
+	<version>2.5.0</version>
+	<description>Temporary fix for admin forms that have no id (id="adminForm")</description>
+	<files>
+		<filename plugin="adminformfixer">adminformfixer.php</filename>
+		<filename>index.html</filename>
+	</files>
+</extension>
